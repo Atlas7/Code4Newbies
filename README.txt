@@ -18,3 +18,7 @@ Note: I am on these Ruby and Rails versions:
 
 - `ruby 2.2.3p173 (2015-08-18 revision 51636) [x86_64-darwin15]`
 - `Rails 4.2.4`
+
+# Reference
+
+The official codes / solutions may be found in Leo's Github repository [here](https://github.com/leotrieu/Code4Startup.Hero.new).
