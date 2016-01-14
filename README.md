@@ -14,7 +14,11 @@ Start the Web server:
 rails s
 ```
 
-Note: I am on these Ruby and Rails versions:
+Navigae to [http://localhost:3000](http://localhost:3000) to view website.
+
+# My Dev Environment:
+
+I am on Mac OSC 11.11 El Capitian. With these currently installed.
 
 - `ruby 2.2.3p173 (2015-08-18 revision 51636) [x86_64-darwin15]`
 - `Rails 4.2.4`
